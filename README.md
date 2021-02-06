@@ -1,0 +1,2 @@
+# EquipmentPurchasingPlatform
+“EquipmentPurchasingPlatform”technical support
